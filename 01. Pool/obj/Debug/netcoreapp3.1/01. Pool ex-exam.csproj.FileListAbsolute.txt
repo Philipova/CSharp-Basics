@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Pool ex-exam\bin\Debug\netcoreapp3.1\01. Pool ex-exam.exe
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Pool ex-exam\bin\Debug\netcoreapp3.1\01. Pool ex-exam.deps.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Pool ex-exam\bin\Debug\netcoreapp3.1\01. Pool ex-exam.runtimeconfig.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Pool ex-exam\bin\Debug\netcoreapp3.1\01. Pool ex-exam.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Pool ex-exam\bin\Debug\netcoreapp3.1\01. Pool ex-exam.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Pool ex-exam\bin\Debug\netcoreapp3.1\01. Pool ex-exam.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Pool ex-exam\obj\Debug\netcoreapp3.1\01. Pool ex-exam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Pool ex-exam\obj\Debug\netcoreapp3.1\01. Pool ex-exam.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Pool ex-exam\obj\Debug\netcoreapp3.1\01. Pool ex-exam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Pool ex-exam\obj\Debug\netcoreapp3.1\01. Pool ex-exam.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Pool ex-exam\obj\Debug\netcoreapp3.1\01. Pool ex-exam.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Pool ex-exam\obj\Debug\netcoreapp3.1\01. Pool ex-exam.genruntimeconfig.cache
