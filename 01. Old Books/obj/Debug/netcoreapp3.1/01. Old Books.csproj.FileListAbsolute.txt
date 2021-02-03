@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.exe
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.deps.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.runtimeconfig.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.genruntimeconfig.cache
