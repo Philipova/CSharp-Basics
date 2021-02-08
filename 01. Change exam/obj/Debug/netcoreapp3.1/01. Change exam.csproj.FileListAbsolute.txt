@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Change exam\obj\Debug\netcoreapp3.1\01. Change exam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Change exam\obj\Debug\netcoreapp3.1\01. Change exam.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Change exam\obj\Debug\netcoreapp3.1\01. Change exam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Change exam\bin\Debug\netcoreapp3.1\01. Change exam.exe
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Change exam\bin\Debug\netcoreapp3.1\01. Change exam.deps.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Change exam\bin\Debug\netcoreapp3.1\01. Change exam.runtimeconfig.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Change exam\bin\Debug\netcoreapp3.1\01. Change exam.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Change exam\bin\Debug\netcoreapp3.1\01. Change exam.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Change exam\bin\Debug\netcoreapp3.1\01. Change exam.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Change exam\obj\Debug\netcoreapp3.1\01. Change exam.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Change exam\obj\Debug\netcoreapp3.1\01. Change exam.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Change exam\obj\Debug\netcoreapp3.1\01. Change exam.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Change exam\obj\Debug\netcoreapp3.1\01. Change exam.genruntimeconfig.cache
