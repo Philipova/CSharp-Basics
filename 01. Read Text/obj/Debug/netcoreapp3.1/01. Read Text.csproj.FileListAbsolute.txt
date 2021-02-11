@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.exe
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.deps.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.runtimeconfig.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.genruntimeconfig.cache
