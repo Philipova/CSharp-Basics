@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.csproj.CoreCompileInputs.cache
