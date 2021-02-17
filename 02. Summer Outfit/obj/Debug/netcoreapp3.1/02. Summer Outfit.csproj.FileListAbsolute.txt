@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.exe
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.deps.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.runtimeconfig.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.genruntimeconfig.cache
