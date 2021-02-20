@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\03. Odd and Even Position\bin\Debug\netcoreapp3.1\03. Odd and Even Position.exe
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\03. Odd and Even Position\bin\Debug\netcoreapp3.1\03. Odd and Even Position.deps.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\03. Odd and Even Position\bin\Debug\netcoreapp3.1\03. Odd and Even Position.runtimeconfig.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\03. Odd and Even Position\bin\Debug\netcoreapp3.1\03. Odd and Even Position.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\03. Odd and Even Position\bin\Debug\netcoreapp3.1\03. Odd and Even Position.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\03. Odd and Even Position\bin\Debug\netcoreapp3.1\03. Odd and Even Position.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\03. Odd and Even Position\obj\Debug\netcoreapp3.1\03. Odd and Even Position.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\03. Odd and Even Position\obj\Debug\netcoreapp3.1\03. Odd and Even Position.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\03. Odd and Even Position\obj\Debug\netcoreapp3.1\03. Odd and Even Position.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\03. Odd and Even Position\obj\Debug\netcoreapp3.1\03. Odd and Even Position.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\03. Odd and Even Position\obj\Debug\netcoreapp3.1\03. Odd and Even Position.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\03. Odd and Even Position\obj\Debug\netcoreapp3.1\03. Odd and Even Position.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\03. Odd and Even Position\obj\Debug\netcoreapp3.1\03. Odd and Even Position.genruntimeconfig.cache
