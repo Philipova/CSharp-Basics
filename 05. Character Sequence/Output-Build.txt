@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: 05. Character Sequence, Configuration: Debug Any CPU ------
+1>05. Character Sequence -> C:\Users\User\source\repos\Conditional Statements Advanced - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
