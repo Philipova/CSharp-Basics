@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: 04. Walking, Configuration: Debug Any CPU ------
+1>04. Walking -> C:\Users\User\source\repos\Conditional Statements Advanced - Lab\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
