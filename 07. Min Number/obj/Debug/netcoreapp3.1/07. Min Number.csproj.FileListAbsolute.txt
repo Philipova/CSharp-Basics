@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.exe
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.deps.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.runtimeconfig.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.genruntimeconfig.cache
