@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: 08. On Time for the Exam, Configuration: Debug Any CPU ------
+1>08. On Time for the Exam -> C:\Users\User\source\repos\Conditional Statements Advanced - Lab\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

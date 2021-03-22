@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.exe
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.deps.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.runtimeconfig.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.genruntimeconfig.cache
