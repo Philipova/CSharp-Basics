@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\NewDayOfTheWeek\obj\Debug\netcoreapp3.1\NewDayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\NewDayOfTheWeek\obj\Debug\netcoreapp3.1\NewDayOfTheWeek.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\NewDayOfTheWeek\obj\Debug\netcoreapp3.1\NewDayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\NewDayOfTheWeek\bin\Debug\netcoreapp3.1\NewDayOfTheWeek.exe
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\NewDayOfTheWeek\bin\Debug\netcoreapp3.1\NewDayOfTheWeek.deps.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\NewDayOfTheWeek\bin\Debug\netcoreapp3.1\NewDayOfTheWeek.runtimeconfig.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\NewDayOfTheWeek\bin\Debug\netcoreapp3.1\NewDayOfTheWeek.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\NewDayOfTheWeek\bin\Debug\netcoreapp3.1\NewDayOfTheWeek.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\NewDayOfTheWeek\bin\Debug\netcoreapp3.1\NewDayOfTheWeek.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\NewDayOfTheWeek\obj\Debug\netcoreapp3.1\NewDayOfTheWeek.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\NewDayOfTheWeek\obj\Debug\netcoreapp3.1\NewDayOfTheWeek.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\NewDayOfTheWeek\obj\Debug\netcoreapp3.1\NewDayOfTheWeek.genruntimeconfig.cache
